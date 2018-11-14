@@ -1,0 +1,35 @@
+body {
+  background-color: #33E3FF; /light blue/
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+  color: gold;
+}
+strong {
+  color: blue;
+}
+.button {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+  margin-right: auto;
+
+  width: 100px;
+  margin: 20px auto;
+}
+h2 {
+  color: #076795;  /dark blue/
+}
+.synopsis {
+  color: #7E8184;        /* Light gray */
+  font-style: italic;
+}
